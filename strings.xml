@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_n">Что посмотреть?</string>
+    <string name="film_n">Сгенерировать фильм</string>
+    <string name="gen"> СГЕНЕРИРОВАТЬ ФИЛЬМ </string>
+    <string name="instr"> Нажмите на кнопку</string>
+
+    <array name="movieList">
+        <item>Поезд в Пусан</item>
+        <item>Война миров Z</item>
+        <item>Апгрейд</item>
+        <item>Шпион</item>
+        <item>Монгол</item>
+        <item>Волна</item>
+        <item>Дикая штучка</item>
+        <item>Васаби</item>
+        <item>Исходный код</item>
+        <item>Патруль</item>
+    </array>
+</resources>
